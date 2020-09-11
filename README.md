@@ -28,7 +28,7 @@ make
 
 
 # Results
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/yupeng051655/COMP4905_SfM/tree/master/images_1/001.jpg)
 
 
 
