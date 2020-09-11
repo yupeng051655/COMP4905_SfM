@@ -28,8 +28,8 @@ make
 
 
 # Results
-!(https://github.com/yupeng051655/COMP4905_SfM/tree/master/images_1/001.jpg)
-![GitHub Logo](yupeng051655/COMP4905_SfM/tree/master/images_1/001.jpg)
+![Images](https://github.com/yupeng051655/COMP4905_SfM/blob/master/images_1/images.png)
+
 
 
 
